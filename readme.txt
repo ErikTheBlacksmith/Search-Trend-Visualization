@@ -1,7 +1,7 @@
 do not steal please i made this :)
 
 How to use:
-Run app
+Run app.R
 Fill out boxes
 Click "Apply Changes"
 
