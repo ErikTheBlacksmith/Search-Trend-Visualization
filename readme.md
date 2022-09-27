@@ -1,3 +1,4 @@
+# Search Trend Visualization
 ![image of the application](https://i.imgur.com/hgSJ5HM.png)
 
 do not steal please i made this :)
